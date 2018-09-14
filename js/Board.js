@@ -6,7 +6,7 @@ class Board {
     }
 
     // /**
-    //  * Generates 2D array osf spaces. 
+    //  * Generates 2D array osf spaces.
     //  * @return  {array}     An array of space objects
     //  */
     createSpaces() {
@@ -24,5 +24,14 @@ class Board {
 		}
 
         return spaces;
+    }
+
+
+    drawHTMLBoard(){
+/* To do: Use a for-loop to iterate through the 2D array of space
+ objects stored in the Board object's spaces property, and call the newly
+ created drawSVGSpace() method on each space object.
+ */
+
     }
 }

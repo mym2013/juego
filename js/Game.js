@@ -30,4 +30,20 @@ class Game {
                      new Player(' player2',2 , '#e59a13')];
                      return players;
                  }
+/*
+* Gets game ready for playe
+*/
+startGame(){
+
+
+
+}
+
+
+
+
+
+
+
+
           }

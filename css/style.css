@@ -43,6 +43,7 @@ body {
 	cursor: pointer;
 	border: none;
     font-family: 'Wendy One', sans-serif;
+
     font-size: 25px;
 }
 
@@ -150,4 +151,3 @@ circle {
 	left: 0;
 	right: 0;
 }
-

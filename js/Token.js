@@ -4,4 +4,25 @@ class Token {
         this.id = `token-${index}-${owner.id}`;
         this.dropped = false;
     }
+
+drawHTMLToken() {
+  /* To do:
+   */
+
+
+
+
+}
+
+
+htmlToken(){
+  /* To do:
+   */
+
+
+
+
+}
+
+
 }
